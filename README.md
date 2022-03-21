@@ -16,8 +16,8 @@
 ## Summary
 
     1.  PH has over 50,000 engineers that are currently retirement eligible (see retiring_titles.csv and retiring_titles.png in Data directory).
-    2.  I also ran 3 additional queries to determine the number and title of the current employees that were born between 1 January 1956 and 31 December 1979 and that are NOT retirement eligible. This list shows that PH has over 120,000 engineers currently on staff that are NOT eligible for retirement (see retaining_titles.csv and retaining_titles.png).
-    3.  PH will still have an engineering staff of 120,000 remaining AFTER the 50,000 retirement eligible engineers take retirement.
+    2.  I also ran 3 additional queries to determine the number and title of the current employees that were born between 1 January 1956 and 31 December 1979 and that are NOT retirement eligible. This list shows that PH has over 138,000 engineers currently on staff that are NOT eligible for retirement (see retaining_titles.csv and retaining_titles.png).
+    3.  PH will still have an engineering staff of over 138,000 remaining AFTER the 50,000 retirement eligible engineers take retirement.
 
 ![screenshot capture](/Data/retirement_titles.png)
 ![screenshot capture](/Data/unique_titles.PNG)
